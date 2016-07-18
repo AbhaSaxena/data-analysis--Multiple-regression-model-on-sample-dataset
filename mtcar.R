@@ -23,5 +23,5 @@ print(Xhp)
 print(Xwt)
 
 #predicting mileage for a car with disp=221, hp=102, wt=2.91 
-Y <- 37.15+ Xdisp*221+ Xhp*102+ Xwt*2.91p
+Y <- 37.15+ Xdisp*221+ Xhp*102+ Xwt*2.91
 print(Y)
